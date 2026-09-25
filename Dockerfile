@@ -1,7 +1,7 @@
 # parameters
-ARG PROJECT_NAME
-ARG PROJECT_DESCRIPTION
-ARG PROJECT_MAINTAINER
+ARG PROJECT_NAME="ldixonproject"
+ARG PROJECT_DESCRIPTION="Duckietown project"
+ARG PROJECT_MAINTAINER="Lance Dixon (ldixon1@byu.edu)"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
 ARG PROJECT_ICON="cube"
 ARG PROJECT_FORMAT_VERSION
